@@ -1,6 +1,6 @@
 # Tic Tac Toe 🎮
 
-A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. This project is fully responsive, works on all screen sizes, and features a clean design.
+A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. This project is fully responsive, works on all screen sizes, and clean design.
 
 ## 🚀 Live Demo
 Play the game here: [https://mohammad-ziya.github.io/tic-tac-toe/](https://mohammad-ziya.github.io/tic-tac-toe/)
@@ -30,4 +30,4 @@ If you want to run the game on your own computer (instead of playing it online),
 Feel free to fork this repo and submit pull requests with improvements—especially if you solve the mystery!
 
 ## 📧 Contact
-Built by Mohammad Ziya. Reach out on [GitHub](https://github.com/Mohammad-Ziya) or connect with me on [LinkedIn](www.linkedin.com/in/mohd-ziya-aa4990280) for questions or feedback.
+Built by Mohammad Ziya. Reach out on [GitHub](https://github.com/Mohammad-Ziya) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-ziya-aa4990280/) for questions or feedback.
